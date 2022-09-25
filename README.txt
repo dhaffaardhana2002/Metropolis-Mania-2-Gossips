@@ -1,10 +1,9 @@
-# Metropolis Mania 2 Gossips
-This all of the gossips:
+Metropolismania 2 Gossip
 
-__Model kits__
+Model kits
 Nerd Computers
 
-__Slow Food__
+Slow Food
 Ordinary girl
 Trendy girl
 Nice and mellow girl
@@ -14,44 +13,44 @@ Middle-Aged Man
 Athletic
 Ambitious trendy
 
-__Jogging__
+Jogging
 Athletic guy
 
-__Kids should praise__ _(from Middle-aged woman)_
+Kids should praise (from Middle-aged woman)
 Middle-aged woman
 Middle-aged man fake smile
 Gossip
 Workaholic
 
-__Out of work__
+Out of work
 Workaholic
 
-__Lots Overtime__
+Lots Overtime
 Workaholic
 Middle-aged man fake smile
 
-__Darts__
+Darts
 Guy with advice
 Athletic guy
 
-__Snowboard__
+Snowboard
 Athletic guy
 Trendy girl
 Ordinary girl 
 
-__Starting company__
+Starting company 
 Ambitious trendy
 
-__Agar__
+Agar
 Heavy Makeup
 Ordinary Girl
 Girl stalks
 
-__Online Trading__
+Online Trading
 Ambitious trendy
 Middle-aged man fake / jokes / riddle
 
-__Boyfriend of Colon__ _(from Super model with heavy makeup)_
+Boyfriend of Colon (from Super model with heavy makeup)
 Super model / girl with heave makeup
 Trendy girl / boy
 Guy who likes to give advice
